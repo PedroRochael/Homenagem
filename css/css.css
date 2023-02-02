@@ -1,0 +1,15 @@
+body{
+    background-color:black;
+}
+
+h1, h2{
+    color: azure;
+}
+
+p{
+    color:azure;
+}
+
+.pag{
+    color:rgb(44, 44, 235);
+}
